@@ -1,2 +1,2 @@
 # magic-box
-Why not?
+welcome
